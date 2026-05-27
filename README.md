@@ -5,4 +5,4 @@ Building a solid foundation in Python core concepts.
 <br>
 Progress from basic syntax to Data Structures, OOP, and eventually libraries like Pandas and NumPy.
 <br>
-Achieving a daily coding streak.
+Achieving a daily coding streaks.
