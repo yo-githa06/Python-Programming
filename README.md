@@ -1,5 +1,5 @@
 # My Daily Progress in Python Programming
-My Goal 
+About This Repo
 <br>
 Building a solid foundation in Python core concepts.
 <br>
