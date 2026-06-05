@@ -5,3 +5,13 @@ Here, I will be posting my day-to-day Python learning progress, including the co
 
 I just started learning Python from scratch and mainly focused on fundamentals
 # My Progress
+
+# Day1
+# Topics I Did
+* Print Statements
+* Variables
+* Str Concatenation
+* Comments
+* Type Method
+
+
