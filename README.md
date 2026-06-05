@@ -7,7 +7,7 @@ I just started learning Python from scratch and mainly focused on fundamentals
 # My Progress
 
 # Day1
-# Topics I Did
+# Topics I Covered
 * Print Statements
 * Variables
 * Str Concatenation
