@@ -23,8 +23,3 @@ is_pass = True
 print("Her result is " + " " +(str(is_pass)))
 print("Are u suffering with Overweight: " + " " + (str(is_pass)))
 print(type(is_pass))
-
-
-
-
-
