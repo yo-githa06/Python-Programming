@@ -13,5 +13,20 @@ I just started learning Python from scratch and mainly focused on fundamentals
 * Str Concatenation
 * Comments
 * Type Method
+# Day2
+# Topics I Covered
+* 1. Variables and Data Types
+* F-Strings
+* Comments
+* Multi-line strings used as documentation/comments
+* Conditional Statements
+* Type Casting
+* User Input
+* Practice Programs
+Sum of three numbers
+Area and perimeter of a square
+Age eligibility checker
+Selection status checker
+Health status checker based on weight
 
 
