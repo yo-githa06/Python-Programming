@@ -15,7 +15,7 @@ I just started learning Python from scratch and mainly focused on fundamentals
 * Type Method
 # Day2
 # Topics I Covered
-* 1. Variables and Data Types
+* Variables and Data Types
 * F-Strings
 * Comments
 * Multi-line strings used as documentation/comments
