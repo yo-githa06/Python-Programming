@@ -7,14 +7,14 @@ I just started learning Python from scratch and mainly focused on fundamentals
 # My Progress
 
 # Day1
-# Topics I Covered
+# Concepts I Covered
 * Print Statements
 * Variables
 * Str Concatenation
 * Comments
 * Type Method
 # Day2
-# Topics I Covered
+# Concepts I Covered
 * Variables and Data Types
 * F-Strings
 * Comments
@@ -28,5 +28,17 @@ Area and perimeter of a square
 Age eligibility checker
 Selection status checker
 Health status checker based on weight
+# Day3
+# Concepts I Covered
+* Shopping Cart Program
+* Multiple Variable Assignment
+* Mad Libs Game Program
+* Arithmetic Operators
+* Built-in Math Functions
+* math Module
+* if, elif, else Statements
+* Boolean Variables
+* User Input Validation
+* Simple Calculator Program
 
 
