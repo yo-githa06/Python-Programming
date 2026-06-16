@@ -49,5 +49,8 @@ Health status checker based on weight
 * String Methods
 * String Indexing & Slicing
 * Format Specifiers
-
-
+# Day5
+# Concepts I Covered
+* While loops
+* Infinite loops
+* Multiple Logical Examples on while loops
