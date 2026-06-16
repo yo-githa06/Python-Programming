@@ -33,6 +33,8 @@ print(F"Yesterday i woke up early and helped my father to get some {adjective1}"
 print(F"Every Tuesday we go for the {noun1} which is at {noun2} for {verb1} and {verb2}")
 print(f"this is only just to {adjective2} our {verb2}")
 print(f"My Father {adjective3} me if i refuse {verb3} with him")
+
+
 a = float(input("Enter the value for a: "))
 b = float(input("Enter the value for b: "))
 c = float(input("Enter the value for c: "))
@@ -95,7 +97,7 @@ else:
 
 
 # Example2 (Strictly equals)
-Your_Result = input("Enter You Result for your UG(Pass/Fail): ")
+Your_Result = input("Enter You Result for your UG(Pass/Fail): ").lower()
 if Your_Result == "Pass":
     print("Congrats here is your degree to download")
 else:

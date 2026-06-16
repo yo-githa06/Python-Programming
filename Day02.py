@@ -71,7 +71,7 @@ print(type(is_Working))
 
 
 # str to bool
-name = bool(name)#prints False if the variable of str is empty only withethe Quotes
+name = bool(name)#prints False if the variable of str is empty only withe the Quotes
 print(name)
 
 
@@ -87,7 +87,7 @@ print(Salary)'''
 
 #Eg Programs
 #UserInput Function
-"""print(input("Enter you college name: "))
+"""print(input("Enter your college name: "))
 Name = input("Enter you name: ")
 print(f"Hello Dear {Name}, How can i help you?")
 Return_AS_Str = int(input("Enter your age: "))
