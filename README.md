@@ -1,10 +1,10 @@
 # Python-Programming
 My journey learning Python from scratch, I am building a strong foundation in Python by practicing programming concepts, solving coding problems, and working on hands-on exercises every day. My goal is to improve my problem-solving skills, prepare for DSA, and develop the programming knowledge required for Full Stack Development.
 
-Here, I will be posting my day-to-day Python learning progress, including the concepts I learn, practice and projects I build.\
+Here, I will be posting my day-to-day Python learning progress, including the concepts I learn, practice and projects I build.
 
 I just started learning Python from scratch and mainly focused on fundamentals
-# My Progress
+# My Progress:
 
 # Day1
 # Concepts I Covered
@@ -40,5 +40,17 @@ Health status checker based on weight
 * Boolean Variables
 * User Input Validation
 * Simple Calculator Program
-
-
+# Day4
+# Concepts I Covered
+* Weight Converter
+* Temperature Converter
+* Logical Operators (and, or, not)
+* Conditional Expressions (Ternary Operator)
+* String Methods
+* String Indexing & Slicing
+* Format Specifiers
+# Day5
+# Concepts I Covered
+* While loops
+* Infinite loops
+* Multiple Logical Examples on while loops
