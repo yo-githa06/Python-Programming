@@ -54,3 +54,8 @@ Health status checker based on weight
 * While loops
 * Infinite loops
 * Multiple Logical Examples on while loops
+# Day6
+# Concepts I Covered
+* For Loops
+* Multiple programs using for loops
+* Multiplication Table, Factorial etc
