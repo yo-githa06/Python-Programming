@@ -59,7 +59,7 @@ Health status checker based on weight
 * For Loops
 * Multiple programs using for loops
 * Multiplication Table, Factorial etc
-# Day5
+# Day7
 # Concepts I Covered
 * nested loops
 * Pattern printing
