@@ -59,3 +59,11 @@ Health status checker based on weight
 * For Loops
 * Multiple programs using for loops
 * Multiplication Table, Factorial etc
+# Day5
+# Concepts I Covered
+* nested loops
+* Pattern printing
+* Prime numbers
+* Multiplication table
+* Floyd's Triangle
+* Pyramid patterns etc
