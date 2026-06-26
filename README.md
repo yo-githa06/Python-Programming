@@ -67,3 +67,11 @@ Health status checker based on weight
 * Multiplication table
 * Floyd's Triangle
 * Pyramid patterns etc
+# Day8
+# Concepts I Covered
+* Lists
+* Tuples
+* Sets
+* Methods
+* Attributs
+* Example programs
