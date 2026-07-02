@@ -75,3 +75,29 @@ Health status checker based on weight
 * Methods
 * Attributs
 * Example programs
+# Day9
+# Concepts I Covered
+* 2D Collections
+* 2D Lists
+* Nested Data Structures(eg., list of lists)
+* Row and colns (eg., Number pad)
+* Quiz Game
+* Dictionaries (Methods, Traversal)
+* And few more Example programs
+# Day10
+# Topics I Covered
+* Random Module(randint,random,Shufflinf)
+* Number Guessing program
+* Rock paper Scissors games,Dice Roller etc
+# Day11
+# Topics I Covered
+* Functions in python(and reusability)
+* It's Arguments, Parameters, Return, Default, Keyword statements
+* Positional vs Default
+# Day12
+# Topics I Covered
+* Variable-Length Args(*args)
+* Variable- Length Keywords(**kwargs) with lists and Tuples
+* And many more cases
+
+
