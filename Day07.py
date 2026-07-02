@@ -64,14 +64,15 @@ print("Reverse:", reverse)
 
 
 #For loop using the number range for that need to convert to the strng first 
-num = int(input("Enter a number: "))
-digit = len(str(num))
-reverse = 0
-for _ in range(digit):
-    digit = num % 10
-    reverse = reverse * 10 + digit
-    num = num // 10
-print("Reverse:", reverse)
+num_count= input("Enter a number")
+digit_count = len(num_count)
+num = int(num_count)
+Reverse = 0
+for i in digit_count:# this iterates till the len of the number (no of times)
+    digit = num % 10# Gets the last digit (remainder)
+    Reverse = Reverse * 10 + digit# Appends the digit to the reverse number
+    num = num // 10#now the umber becomes reduces and the remaining num cntinues to iterate# Floor division removes the last digit
+print(f"The reverse of the number is: {Reverse}")
 
 # Test code
 num = int(input("Enter a number: "))
@@ -90,7 +91,7 @@ print("Reverse:" , reverse)
 
 num = int(input("Enter a number: "))
 reverse = ""
-for i in str(num):
+for i in range(str(num)):
     reverse = i + str(reverse)
 print("reverse:", reverse)
 
@@ -205,15 +206,16 @@ for i in range(6):
 for i in range(2,51):
     is_prime = True
     for x in range(2,i):
-        if num % x == 0:
+        if i % x == 0:
             is_prime = False
             break
     if is_prime:
-        print(num)
+        print(i)
 for x in range (1,11):
     if x == 3:
         continue
     print(x)
+
 for x in range(0,51):
     is_prime = True
     if x < 2:
@@ -239,7 +241,7 @@ for i in range(2, 9):
     print()
 #this is rect not square
 for i in range(6):#because outer for loop has 6 iterations from 0
-    for x in range(1,6):#for x in range(6):
+    for x in range(1,3):#for x in range(6):
         print("%", end = "\t")
     print()
 #FLoyd's Triangle

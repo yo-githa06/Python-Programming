@@ -60,8 +60,7 @@ while is_running:
             print("Your values is higher Try again!")
         else:
             print(f"Correct Answer!,The answer was {Answer}")
-            print(f"Number of Guesses: {Guesses}")
-    
+            print(f"Number of Guesses: {Guesses}")  
                   
     else:
         print("Invalid number")

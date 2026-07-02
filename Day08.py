@@ -1,5 +1,5 @@
 # Collections:A Single Variable which has multiple values and also Dictionaries
-Product_Based = ["Google", "Microsoft","PhonePe","Paypal","Amazon","Flipkart"]
+Product_Based = ["Google", "Microsoft","PhonePe","Paypal","Amazon","Flipkart"]. 
 #print(Product_Based)
 #print(Product_Based[::-1])#[2::-1][::2]
 #print(dir(Product_Based))# Displays all the Methods in the collectuions
