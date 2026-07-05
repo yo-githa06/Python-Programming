@@ -99,5 +99,10 @@ Health status checker based on weight
 * Variable-Length Args(*args)
 * Variable- Length Keywords(**kwargs) with lists and Tuples
 * And many more cases
+# Day13
+# Topics I Covered
+* Unpacking lists with *args and **kwargs
+* Understood Scope of variables
+* Decorators
 
 
