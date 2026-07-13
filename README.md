@@ -104,5 +104,14 @@ Health status checker based on weight
 * Unpacking lists with *args and **kwargs
 * Understood Scope of variables
 * Decorators
-
+# Day 14
+# Topics I Covered
+* Lambda Functions
+* Recalled Methods List Methods
+* Recursion Function
+# Day15
+# Topics I Covered
+* List Comprehension
+* Match cases
+* Generators
 
