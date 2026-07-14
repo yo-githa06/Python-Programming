@@ -1,7 +1,7 @@
 # Python-Programming
-My journey learning Python from scratch, I am building a strong foundation in Python by practicing programming concepts, solving coding problems, and working on hands-on exercises every day. My goal is to improve my problem-solving skills, prepare for DSA, and develop the programming knowledge required for Full Stack Development.
+My journey learning Python from scratch. I am building a strong foundation in Python by practicing programming concepts, solving coding problems, and working on hands-on exercises every day. My goal is to improve my problem-solving skills, prepare for DSA, and develop the programming knowledge required for Full Stack Development.
 
-Here, I will be posting my day-to-day Python learning progress, including the concepts I learn, practice and projects I build.
+Here, I will be posting my day-to-day Python learning progress, including the concepts I learn, practice, and projects I build.
 
 I just started learning Python from scratch and mainly focused on fundamentals
 # My Progress:
@@ -107,11 +107,17 @@ Health status checker based on weight
 # Day 14
 # Topics I Covered
 * Lambda Functions
-* Recalled Methods List Methods
+* Recalled methods and list methods
 * Recursion Function
 # Day15
 # Topics I Covered
 * List Comprehension
 * Match cases
 * Generators
+# Day16
+# Topics I Covered
+* Iterators and Iterables
+* Modules
+* JSON and methods
+
 
