@@ -119,5 +119,10 @@ Health status checker based on weight
 * Iterators and Iterables
 * Modules
 * JSON and methods
+# Day17
+# Topics I Covered
+* RegEx modules
+* RegEx methods
+* PIP Package
 
 
